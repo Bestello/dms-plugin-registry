@@ -582,12 +582,12 @@
     "url": "https://github.com/pnbarbeito/dms-niri-animation-rotate"
   },
   "animeCalendar": {
-    "date": "2026-05-02T17:17:00+03:00",
+    "date": "2026-10-24T15:13:17+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-2TaOmT0ERede3QSJUrNj334cAPUKN3Ta/f2T3VUjfUg=",
+    "hash": "sha256-lA9Iw+sfEyX67wh3iUW0RY31xonaUtNjBCzREsF9jSs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Ricea Ion Raul",
@@ -608,12 +608,12 @@
       "path": "",
       "repo": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin",
       "screenshot": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin/blob/main/screenshots/today-tab.png?raw=true",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
-    "path": "/nix/store/kca79b02bqaacf72q1z34iqw3avbzzy8-DMS-AnimeCalendarPlugin",
-    "rev": "b27516cbcb4ede6f4946c942e7dbe4e9d9b1bb6e",
+    "path": "/nix/store/ykn33jhynagnal6hz1fp46r9hypmspjm-DMS-AnimeCalendarPlugin",
+    "rev": "4b3f88c6e1bbb39d0b4f2c8b25ba1c889befcf45",
     "rootDir": "",
-    "sha256": "0j3x4daxv4zxzpd78dqayl01qznzcfrm5284vmgffi847ncqwdnr",
+    "sha256": "0awdgp0i5l9c0iix6lnsi73gb3a5ni2qjxq8xzx2a4qzxg1lh3wl",
     "url": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin"
   },
   "antigravityUsage": {
@@ -1203,12 +1203,12 @@
     "url": "https://github.com/arcatva/dms-battery-plus"
   },
   "bitwarden": {
-    "date": "2026-10-18T10:14:23+02:00",
+    "date": "2026-10-24T10:07:18+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KuUkDDoTDwMyJixhRN39svFvwuFkZ88nKQXMiP7h1YU=",
+    "hash": "sha256-VlL5FNK/Dta6tl0b+aKCBSK44grj3LIchXlfI3QIQZk=",
     "leaveDotGit": false,
     "meta": {
       "author": "coldi1337",
@@ -1234,12 +1234,12 @@
       "repo": "https://github.com/coldi1337/dms-bitwarden-cli",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://raw.githubusercontent.com/coldi1337/dms-bitwarden-cli/main/docs/screenshots/dms-vault-preview.png",
-      "version": "1.11.6-dms.3"
+      "version": "1.11.6-dms.4"
     },
-    "path": "/nix/store/f6lxwwl7mb6ksbx5v20rjlzh07l9mm1s-dms-bitwarden-cli",
-    "rev": "8b74d727e7c0d3ecf6535278bbff058a8b332cc3",
+    "path": "/nix/store/h5dhyjr61hqhxklk70mmisphw1d2z02y-dms-bitwarden-cli",
+    "rev": "11085126546b8355879e34ef86f14af97dbfa1e3",
     "rootDir": "",
-    "sha256": "11fmw7z8ik0554kwyrv4w716zwdjzpfl8q9c4qr063qk78629r9a",
+    "sha256": "16a111s26pvrhlfb5p731bibh8h5haigj6sxnsxdc3mzs8agjljn",
     "url": "https://github.com/coldi1337/dms-bitwarden-cli"
   },
   "bongoCat": {
@@ -8400,12 +8400,12 @@
     "url": "https://github.com/omarluq/DMSMangoWCLayoutManager"
   },
   "markets": {
-    "date": "2026-10-15T11:03:23+02:00",
+    "date": "2026-10-24T15:01:04+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/Cnt2u7bJYHwPTcNX5msl4OjCRtbpurmTA2ZiEfmIHs=",
+    "hash": "sha256-005ttO1XtE76v++cnB6ecMDdZZBx7FJM+GWglzLiGo4=",
     "leaveDotGit": false,
     "meta": {
       "author": "TMS-Namespace",
@@ -8439,12 +8439,12 @@
       "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/raw/main/Images/Dark-Popup.png",
       "settings": "./QML/Settings.qml",
       "type": "widget",
-      "version": "1.0.5"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/bj59rcqh4ivcinf4z1dx91gl4l6gz80i-DMS-Markets-Plugin",
-    "rev": "95ae606f67f3b7b8b0f88063ef1093fd4f98697b",
+    "path": "/nix/store/sh1y6x92yqhkn35shc9f1xzbkf3nwc8v-DMS-Markets-Plugin",
+    "rev": "d56a3bef573f3f2985c5ff3e41c85b1aac51b076",
     "rootDir": "",
-    "sha256": "0yr0wr3qi68d9kkfm9jv3c4s70wpmjcmy39p7pq829fvxvdfsagw",
+    "sha256": "13hsw8r9g835z1655v3ij1jxvh3hkqg9r77gpzx4xd2pxns6sknk",
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "materialPlayer": {
