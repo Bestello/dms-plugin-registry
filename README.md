@@ -1025,16 +1025,16 @@ Balance game audio against Discord/chat audio with a single slider, with the rou
 
 #### [Markets](https://github.com/TMS-Namespace/DMS-Markets-Plugin)
 
-Near-live market prices for currencies, stocks, and commodities with charts through configurable data providers.
+Near-live market prices for currencies, stocks, and commodities with charts, without any credentials.
 
-<strong>requires DMS version</strong>: <em>>=1.2.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: markets
 - name: Markets
 - author: TMS-Namespace
 - compositors: any
 - capabilities: dankbar-widget
-- dependencies: curl, bash
+- dependencies: curl, bash, coreutils
 - distro: any
 
 
@@ -1045,7 +1045,7 @@ Near-live market prices for currencies, stocks, and commodities with charts thro
 <details>
 <summary>Screenshot</summary>
 
-![screenshot](https://github.com/TMS-Namespace/DMS-Markets-Plugin/raw/main/Images/Dark-Popup.png)
+![screenshot](https://github.com/TMS-Namespace/DMS-Markets-Plugin/raw/main/images/Dark-Popup.png)
 
 </details>
 
