@@ -582,12 +582,12 @@
     "url": "https://github.com/pnbarbeito/dms-niri-animation-rotate"
   },
   "animeCalendar": {
-    "date": "2026-10-24T15:13:17+03:00",
+    "date": "2026-10-24T16:14:32+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lA9Iw+sfEyX67wh3iUW0RY31xonaUtNjBCzREsF9jSs=",
+    "hash": "sha256-ff15SXtFNpZBxCSUIk+TXIBhIK7ZUabfcbYWEAmv75k=",
     "leaveDotGit": false,
     "meta": {
       "author": "Ricea Ion Raul",
@@ -608,12 +608,12 @@
       "path": "",
       "repo": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin",
       "screenshot": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin/blob/main/screenshots/today-tab.png?raw=true",
-      "version": "1.0.2"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/ykn33jhynagnal6hz1fp46r9hypmspjm-DMS-AnimeCalendarPlugin",
-    "rev": "4b3f88c6e1bbb39d0b4f2c8b25ba1c889befcf45",
+    "path": "/nix/store/r7pwb97pf9ppa1bc74mh315dnsx57apq-DMS-AnimeCalendarPlugin",
+    "rev": "bf11c6ffdf64e9753ebfa807bace8a48b2db6008",
     "rootDir": "",
-    "sha256": "0awdgp0i5l9c0iix6lnsi73gb3a5ni2qjxq8xzx2a4qzxg1lh3wl",
+    "sha256": "16ggmw4i05mnf7gsclfrmqh6302wjd7j5514qi0rcdj5gd4pkzbx",
     "url": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin"
   },
   "antigravityUsage": {
@@ -1097,12 +1097,12 @@
     "url": "https://github.com/Beepeeko/dms-baloo-search"
   },
   "barDropdown": {
-    "date": "2026-09-05T13:14:20+02:00",
+    "date": "2026-10-24T17:15:27+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5hSGDJQ/s0sJXWiLAkeqfwV/5Qws9JHFkMG3KTYV2uU=",
+    "hash": "sha256-23v2gMtL/MmzTxILwsiEXRCnhYNfS/wDRYxRwCEEyyI=",
     "leaveDotGit": false,
     "meta": {
       "author": "sitolam",
@@ -1125,10 +1125,10 @@
       "screenshot": "https://raw.githubusercontent.com/sitolam/dms-plugins/main/plugins/bardropdown/screenshots/panel.png",
       "version": "0.1.0"
     },
-    "path": "/nix/store/nzzci64xhv4ly1ll110dbkp0rzjjcvgj-dms-plugins",
-    "rev": "85820f16252afcc74361117879764d735c97ef1b",
+    "path": "/nix/store/pzd9i1wdkzhv2ww0jkz7fnrlj19bv0dm-dms-plugins",
+    "rev": "605dbd5f4fad8dc3a8becb19e219ec32000ce4b9",
     "rootDir": "",
-    "sha256": "1rfs2lv2kdy1j32r3x1c1kjpy1bzm93h52v8bl4lpcrzjh68c576",
+    "sha256": "08nb0hhw0lcc8l1zqjszhf2sf42xhk4c42qj9yrwkz2brf0gcyyv",
     "url": "https://github.com/sitolam/dms-plugins"
   },
   "batteryOSD": {
@@ -1514,6 +1514,45 @@
     "rootDir": "",
     "sha256": "0kn09zkm3hy9isdldk0cz9k0f3fiz88a227ikbz3vsp7mzn3ij3y",
     "url": "https://github.com/jankelemen/cardwire-manager"
+  },
+  "cast": {
+    "date": "2026-10-24T22:54:02+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-4r+0iUAp1ReNH6L1Svryn7VtqOK7zpmG0xmqjUkjW/I=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Marlon Kranz",
+      "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "control-center"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "cast-helper"
+      ],
+      "description": "Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast",
+      "distro": [
+        "any"
+      ],
+      "id": "cast",
+      "name": "Cast",
+      "path": "Cast",
+      "repo": "https://github.com/Conava/dux-plugins",
+      "screenshot": "https://raw.githubusercontent.com/Conava/dux-plugins/master/Cast/screenshots/overview.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/7fxbzrzqjj5y0aws81iw6y72g0flhm34-dux-plugins",
+    "rev": "7b55937e68a3625ddb8243a4f2a23d0e4e42a59a",
+    "rootDir": "",
+    "sha256": "1wjv4d4qvahrsf39kkmvwal6vdczybx4mxd23y6igm99824v9gz2",
+    "url": "https://github.com/Conava/dux-plugins"
   },
   "catWidget": {
     "date": "2026-04-13T11:27:25+02:00",
@@ -3378,12 +3417,12 @@
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankMenu": {
-    "date": "2026-09-05T13:14:20+02:00",
+    "date": "2026-10-24T17:15:27+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5hSGDJQ/s0sJXWiLAkeqfwV/5Qws9JHFkMG3KTYV2uU=",
+    "hash": "sha256-23v2gMtL/MmzTxILwsiEXRCnhYNfS/wDRYxRwCEEyyI=",
     "leaveDotGit": false,
     "meta": {
       "author": "sitolam",
@@ -3407,10 +3446,10 @@
       "screenshot": "https://raw.githubusercontent.com/sitolam/dms-plugins/main/plugins/dankmenu/screenshots/root.png",
       "version": "0.3.1"
     },
-    "path": "/nix/store/nzzci64xhv4ly1ll110dbkp0rzjjcvgj-dms-plugins",
-    "rev": "85820f16252afcc74361117879764d735c97ef1b",
+    "path": "/nix/store/pzd9i1wdkzhv2ww0jkz7fnrlj19bv0dm-dms-plugins",
+    "rev": "605dbd5f4fad8dc3a8becb19e219ec32000ce4b9",
     "rootDir": "",
-    "sha256": "1rfs2lv2kdy1j32r3x1c1kjpy1bzm93h52v8bl4lpcrzjh68c576",
+    "sha256": "08nb0hhw0lcc8l1zqjszhf2sf42xhk4c42qj9yrwkz2brf0gcyyv",
     "url": "https://github.com/sitolam/dms-plugins"
   },
   "dankMullvadVpn": {
@@ -4473,12 +4512,12 @@
     "url": "https://github.com/eduardez/DankTerminalTheme"
   },
   "dcalTasks": {
-    "date": "2026-08-26T12:20:11+03:00",
+    "date": "2026-10-24T17:17:15+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-RM2UneJlJ9gZLdhaFPdPboMs3zMggQHFpxvvBXC1070=",
+    "hash": "sha256-BB/4eQrYEWLEXswxbnx30no3eyZRGCOJIZJem0ePr2A=",
     "leaveDotGit": false,
     "meta": {
       "author": "AntonyKor",
@@ -4500,12 +4539,12 @@
       "name": "Dcal Tasks",
       "repo": "https://github.com/AntonyKor/dcal-tasks-launcher",
       "screenshot": "https://raw.githubusercontent.com/AntonyKor/dcal-tasks-launcher/master/docs/screenshot.png",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
-    "path": "/nix/store/vrv8zhkccxh48bhx12ssw7izz232s973-dcal-tasks-launcher",
-    "rev": "e260e6341183ce285ac795534e51d44a108f09b7",
+    "path": "/nix/store/2b8lzq7jby7idaa5dryfvyfxrzpf7841-dcal-tasks-launcher",
+    "rev": "23d89b4718ec2d6b005332527cd02434e0300dfb",
     "rootDir": "",
-    "sha256": "1gfknmq0bvqvlz2h30906ggjr0vf9zvi8nnq5lcxh9v5wafr9ka4",
+    "sha256": "0q5gix3rnplj464j662i4rxkfynjfxy6wcfcbv2644fq19wzh7q4",
     "url": "https://github.com/AntonyKor/dcal-tasks-launcher"
   },
   "dcalUpcoming": {
@@ -4917,12 +4956,12 @@
     "url": "https://github.com/Kavotax/LCD-Digital-Clock.git"
   },
   "discordVoice": {
-    "date": "2026-10-23T17:06:14-07:00",
+    "date": "2026-10-24T15:26:57-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-iB8QiegYl0/xP/su5K45Vb9MPL8IBpLAT/tqbeXyI4A=",
+    "hash": "sha256-R4dEMdEdWUFXfCdrzJKWJ+R8N9zU6aYO8EArW/5AJqc=",
     "leaveDotGit": false,
     "meta": {
       "author": "PandorasFox",
@@ -4944,12 +4983,12 @@
       "name": "Discord Voice Widget",
       "repo": "https://github.com/PandorasFox/dms-discord-widget",
       "screenshot": "https://raw.githubusercontent.com/PandorasFox/dms-discord-widget/master/screenshot.png",
-      "version": "1.3.0"
+      "version": "1.3.2"
     },
-    "path": "/nix/store/bad6ynzwz4cb426sgrgb4wna2l9dks55-dms-discord-widget",
-    "rev": "f1b52142b551e374fdec863c49a2237f9e192191",
+    "path": "/nix/store/qs8mzdscpxgvy90qfip9gzx7haxwp4bi-dms-discord-widget",
+    "rev": "7771a41ed2b8810150afadfdd9241e1e8d97b7b9",
     "rootDir": "",
-    "sha256": "1013ybjnsspv9z0941h8pwy4rgsm76pf8bpv7zqlz5qqx24i07w8",
+    "sha256": "19r683z5nas0y07adsflvhvprr17js9cqsr7gibl2n8xs4ql91s7",
     "url": "https://github.com/PandorasFox/dms-discord-widget"
   },
   "diskMonitor": {
@@ -8025,12 +8064,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
-    "date": "2026-09-07T23:49:32+05:30",
+    "date": "2026-10-24T23:17:10+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-LXFJx4iat7ENgREhGnhg+kz4iNlSipNCFDd2nrHPu4Q=",
+    "hash": "sha256-klsr07oXJPS5qelb+PdPI5vYfXQXaC4RVrjw1fw1BQk=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -8062,12 +8101,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-LiveChart.me/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./LiveChartSettings.qml",
       "type": "widget",
-      "version": "1.1.7"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/p59miwl9f0qr9c54w2djcikk1fr6j7hv-DMS-LiveChart.me",
-    "rev": "62b0b0d79c8fc5fbc856e12eda9b680eb66fa615",
+    "path": "/nix/store/5z41wkkva899zw5wsni470byi0d7h39c-DMS-LiveChart.me",
+    "rev": "c65a8eb19eab48b0b8f17a27296789e57fc713f1",
     "rootDir": "",
-    "sha256": "115vryqrwxip2i1972jjv64ghk7sc1w1l88ih46v3dwsi33ljw9d",
+    "sha256": "02856pydbw5qaq8jws0pfiyxi6r39zvzhnz9m6wz890ppb9jnnwj",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
   },
   "liveLyrics": {
@@ -8400,12 +8439,12 @@
     "url": "https://github.com/omarluq/DMSMangoWCLayoutManager"
   },
   "markets": {
-    "date": "2026-10-24T15:01:04+02:00",
+    "date": "2026-10-24T15:13:59+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-005ttO1XtE76v++cnB6ecMDdZZBx7FJM+GWglzLiGo4=",
+    "hash": "sha256-q3OcG36+Y9SuStEqKP7skOfQwBuKf/b8CfJ5vd0Z6rY=",
     "leaveDotGit": false,
     "meta": {
       "author": "TMS-Namespace",
@@ -8413,15 +8452,16 @@
         "dankbar-widget"
       ],
       "category": "finance",
-      "component": "./QML/Widget.qml",
+      "component": "./src/QML/Widget.qml",
       "compositors": [
         "any"
       ],
       "dependencies": [
         "curl",
-        "bash"
+        "bash",
+        "coreutils"
       ],
-      "description": "Near-live market prices for currencies, stocks, and commodities with charts through configurable data providers.",
+      "description": "Near-live market prices for currencies, stocks, and commodities with charts, without any credentials.",
       "distro": [
         "any"
       ],
@@ -8435,16 +8475,16 @@
         "network"
       ],
       "repo": "https://github.com/TMS-Namespace/DMS-Markets-Plugin",
-      "requires_dms": ">=1.2.0",
-      "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/raw/main/Images/Dark-Popup.png",
-      "settings": "./QML/Settings.qml",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/raw/main/images/Dark-Popup.png",
+      "settings": "./src/QML/Settings.qml",
       "type": "widget",
       "version": "2.0.0"
     },
-    "path": "/nix/store/sh1y6x92yqhkn35shc9f1xzbkf3nwc8v-DMS-Markets-Plugin",
-    "rev": "d56a3bef573f3f2985c5ff3e41c85b1aac51b076",
+    "path": "/nix/store/rbskggrla1hrjgahydgpdzgnb5q3ci5k-DMS-Markets-Plugin",
+    "rev": "4e47d999599d38bc2de1db3926e584811fb2bae6",
     "rootDir": "",
-    "sha256": "13hsw8r9g835z1655v3ij1jxvh3hkqg9r77gpzx4xd2pxns6sknk",
+    "sha256": "1dpa37fvsygj17ygczwa3g0d1rwhxkz2hani9apd8qxygqdrqwxb",
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "materialPlayer": {
@@ -8927,12 +8967,12 @@
     "url": "https://github.com/l3all/dms-modes"
   },
   "mouthGuard": {
-    "date": "2026-09-05T13:14:20+02:00",
+    "date": "2026-10-24T17:15:27+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5hSGDJQ/s0sJXWiLAkeqfwV/5Qws9JHFkMG3KTYV2uU=",
+    "hash": "sha256-23v2gMtL/MmzTxILwsiEXRCnhYNfS/wDRYxRwCEEyyI=",
     "leaveDotGit": false,
     "meta": {
       "author": "sitolam",
@@ -8961,10 +9001,10 @@
       "screenshot": "https://raw.githubusercontent.com/sitolam/dms-plugins/main/plugins/mouthguard/screenshots/popout.png",
       "version": "0.2.0"
     },
-    "path": "/nix/store/nzzci64xhv4ly1ll110dbkp0rzjjcvgj-dms-plugins",
-    "rev": "85820f16252afcc74361117879764d735c97ef1b",
+    "path": "/nix/store/pzd9i1wdkzhv2ww0jkz7fnrlj19bv0dm-dms-plugins",
+    "rev": "605dbd5f4fad8dc3a8becb19e219ec32000ce4b9",
     "rootDir": "",
-    "sha256": "1rfs2lv2kdy1j32r3x1c1kjpy1bzm93h52v8bl4lpcrzjh68c576",
+    "sha256": "08nb0hhw0lcc8l1zqjszhf2sf42xhk4c42qj9yrwkz2brf0gcyyv",
     "url": "https://github.com/sitolam/dms-plugins"
   },
   "mpvpaper": {
@@ -11425,12 +11465,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "screenshotPlus": {
-    "date": "2026-10-01T23:12:35+08:00",
+    "date": "2026-10-25T02:13:40+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZP7T4nQLVR7GIr3S5XPvqbVnePujIiLbfizhGkBqsRg=",
+    "hash": "sha256-BKD7vtUZ+5lzCfa4L5aCT5iUWeBVQLga4cj0Kko7pUU=",
     "leaveDotGit": false,
     "meta": {
       "author": "pcmid",
@@ -11452,12 +11492,12 @@
       "repo": "https://github.com/pcmid/dms-screenshot-plus",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://raw.githubusercontent.com/pcmid/dms-screenshot-plus/main/screenshots/screenshot.png",
-      "version": "0.4.0"
+      "version": "0.5.0"
     },
-    "path": "/nix/store/b8514zd5y34xn529z5dzp8fzk8mrwar7-dms-screenshot-plus",
-    "rev": "af9a87dc9b3c9b27a23eec963a2a75ef037f1828",
+    "path": "/nix/store/pxkm1slr00fkd2jsr5cgyrb23c6g0z67-dms-screenshot-plus",
+    "rev": "cae3cf1b820d430e6b76bb8a99066f013074e6af",
     "rootDir": "",
-    "sha256": "065id901mq9cgvdj48m3zdw6gdd9xxryblmx4b31wm8bfkid7zk4",
+    "sha256": "0id57d52mx68w4dbhh2mw1cr962ghab2zf7n15rrkyqrsnzgp804",
     "url": "https://github.com/pcmid/dms-screenshot-plus"
   },
   "sessionEdge": {
@@ -13140,12 +13180,12 @@
     "url": "https://github.com/solax76/DmsVirtualManager"
   },
   "virtualKeyboard": {
-    "date": "2026-09-05T13:14:20+02:00",
+    "date": "2026-10-24T17:15:27+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5hSGDJQ/s0sJXWiLAkeqfwV/5Qws9JHFkMG3KTYV2uU=",
+    "hash": "sha256-23v2gMtL/MmzTxILwsiEXRCnhYNfS/wDRYxRwCEEyyI=",
     "leaveDotGit": false,
     "meta": {
       "author": "sitolam",
@@ -13172,10 +13212,10 @@
       "screenshot": "https://raw.githubusercontent.com/sitolam/dms-plugins/main/plugins/virtualkeyboard/screenshots/docked.png",
       "version": "0.1.0"
     },
-    "path": "/nix/store/nzzci64xhv4ly1ll110dbkp0rzjjcvgj-dms-plugins",
-    "rev": "85820f16252afcc74361117879764d735c97ef1b",
+    "path": "/nix/store/pzd9i1wdkzhv2ww0jkz7fnrlj19bv0dm-dms-plugins",
+    "rev": "605dbd5f4fad8dc3a8becb19e219ec32000ce4b9",
     "rootDir": "",
-    "sha256": "1rfs2lv2kdy1j32r3x1c1kjpy1bzm93h52v8bl4lpcrzjh68c576",
+    "sha256": "08nb0hhw0lcc8l1zqjszhf2sf42xhk4c42qj9yrwkz2brf0gcyyv",
     "url": "https://github.com/sitolam/dms-plugins"
   },
   "volumeMixer": {
@@ -13600,12 +13640,12 @@
     "url": "https://github.com/alicercedigital/wallhaven-carousel"
   },
   "wallpaperBing": {
-    "date": "2026-10-22T10:48:30+02:00",
+    "date": "2026-10-25T00:34:06+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-nTy7hYlw+uGrzTOaUrNOp/AzAjkNhcXPFo9Lc4m3G2k=",
+    "hash": "sha256-lzvcbtXcCYCk64/rBg3aqqCWbTAx9mgeW242MUVTOrg=",
     "leaveDotGit": false,
     "meta": {
       "author": "maxb",
@@ -13630,21 +13670,21 @@
       "name": "Wallpaper of the Day",
       "repo": "https://github.com/max72bra/DankPluginBingWallpaper",
       "screenshot": "https://raw.githubusercontent.com/max72bra/DankPluginBingWallpaper/refs/heads/main/screenshot.png",
-      "version": "1.5.5"
+      "version": "1.5.6"
     },
-    "path": "/nix/store/0gl6vmn0xf7r4jd39kxpdn3nnihp21x2-DankPluginBingWallpaper",
-    "rev": "2c604c00e6ae4cda1cf92808186889ce2d69da21",
+    "path": "/nix/store/nxi93w26fh9j6jnbn5gxk3pcd8ryfmfx-DankPluginBingWallpaper",
+    "rev": "6d5ea83401eab7340f9de923126b536521412f20",
     "rootDir": "",
-    "sha256": "0s8vny4p6jwg2v7wb18d74137w579srm56ikrnmy3ykhi62vng4x",
+    "sha256": "1f1sad2k2dkfbcg6ixii61nrd85av86hdswgxfj802fwsmpdqfwp",
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperBingWidget": {
-    "date": "2026-09-30T10:07:25+02:00",
+    "date": "2026-10-25T00:28:36+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-f975Uwk1VIwmFoaJUdK24XrCv5PM+x/Kit3zNTGU++Q=",
+    "hash": "sha256-q2pufleIJaB3PvDXH1cZ0wkez8L9qzzwSodKaRxTi4o=",
     "leaveDotGit": false,
     "meta": {
       "author": "maxb",
@@ -13666,12 +13706,12 @@
       "name": "Wallpaper of the Day (Widget)",
       "repo": "https://github.com/max72bra/DankPluginBingWallpaperWidget",
       "screenshot": "https://raw.githubusercontent.com/max72bra/DankPluginBingWallpaperWidget/refs/heads/main/screenshot.png",
-      "version": "1.0.2"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/4wpgmfximjyqc5szy9332ygz9lb6basc-DankPluginBingWallpaperWidget",
-    "rev": "64d118be282e41fea311dfb86b72ddbb7db168bb",
+    "path": "/nix/store/cqw80lxysndcbl2sq722d6lcajv39mhy-DankPluginBingWallpaperWidget",
+    "rev": "855d266ab8c4a74a3f80ddee9298c63b17d280ad",
     "rootDir": "",
-    "sha256": "1r7vjhqkbwyxib51zyycjfzw4yp1nv9532c62qk8qm1m159zkpkz",
+    "sha256": "12lbacf6jjl79bq3razxqb7iw2fk35bizmzh7rvs09c8axz6wsmb",
     "url": "https://github.com/max72bra/DankPluginBingWallpaperWidget"
   },
   "wallpaperByWorkspace": {
