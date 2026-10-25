@@ -752,6 +752,36 @@ A new fresh daily wallpaper downloaded from a famous portal (Widget)
 
 
 
+#### [Waywallen Theme Sync](https://github.com/Douzend/dms-waywallen-theme)
+
+Syncs DankMaterialShell colors with the wallpaper currently playing in Waywallen.
+
+<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+
+- id: waywallenTheme
+- name: Waywallen Theme Sync
+- author: Douzend
+- compositors: any
+- capabilities: daemon
+- dependencies: waywallen, ffmpeg, sqlite3
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Douzend/dms-waywallen-theme/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Weather Art](https://github.com/viewerofall-labs/weather-viewer)
 
 Dynamic weather art widget with responsive ASCII scenes, customizable stats, and theme support
