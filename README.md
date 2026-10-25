@@ -5822,6 +5822,41 @@ Courses, grades, upcoming assignments, missing work, and announcements from Canv
 
 
 
+#### [Cast](https://github.com/Conava/dux-plugins)
+
+Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast
+
+
+
+- id: cast
+- name: Cast
+- author: Marlon Kranz
+- compositors: any
+- capabilities: daemon, dankbar-widget, control-center
+- dependencies: cast-helper
+- distro: any
+
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [Cast](https://github.com/Conava/dux-plugins/tree/main/Cast) folder to your `~/.config/dms/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Conava/dux-plugins/master/Cast/screenshots/overview.png)
+
+</details>
+
+
+
+
+
 #### [Chat Manager](https://github.com/by-architect/DMS-Plugins)
 
 One chat window and one message store for every provider. Install a provider plugin -- Matrix, WhatsApp, Signal -- alongside it and each keeps its own history and settings.
