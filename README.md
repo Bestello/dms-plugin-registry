@@ -2446,16 +2446,16 @@ Monitor NVIDIA GPU usage, VRAM, temperature, power and GPU processes.
 
 #### [Network Indicator](https://github.com/gemb0-0/Network-Indicator.git)
 
-Real-time network speed monitor for DankBar showing upload and download speeds
+Real-time network speed monitor for DankBar showing upload/download speeds and 30-day per-network data usage. By default checks internet connectivity every 20s (5s when offline) via NetworkManager or HTTP requests to connectivitycheck.gstatic.com / nmcheck.gnome.org; can be disabled in settings.
 
-
+<strong>requires DMS version</strong>: <em>>=1.4.6</em>
 
 - id: networkIndicator
 - name: Network Indicator
 - author: gemb0_0
 - compositors: any
 - capabilities: dankbar-widget
-- dependencies: 
+- dependencies: curl, iproute2
 - distro: any
 
 
