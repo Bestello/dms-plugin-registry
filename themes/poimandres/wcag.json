@@ -1,0 +1,115 @@
+{
+  "level": "fail",
+  "dark": {
+    "level": "AAA",
+    "minRatio": 10.27,
+    "worstPair": [
+      "primaryText",
+      "primary"
+    ],
+    "body": {
+      "level": "AAA",
+      "minRatio": 10.85,
+      "worstPair": [
+        "surfaceText",
+        "surfaceContainerHighest"
+      ]
+    },
+    "accent": {
+      "level": "AAA",
+      "minRatio": 10.27,
+      "worstPair": [
+        "primaryText",
+        "primary"
+      ]
+    },
+    "nonText": {
+      "level": "AA",
+      "minRatio": 7.12,
+      "worstPair": [
+        "error",
+        "surfaceContainer"
+      ]
+    },
+    "variants": {
+      "colorful-default": "AAA",
+      "colorful-green": "AAA",
+      "colorful-red": "AAA",
+      "colorful-yellow": "AAA",
+      "m3e-default": "AAA",
+      "m3e-green": "AAA",
+      "m3e-red": "AA",
+      "m3e-yellow": "AAA"
+    },
+    "breakdown": [
+      {
+        "name": "M3E",
+        "mode": "dark",
+        "level": "AA",
+        "bodyLevel": "AAA"
+      },
+      {
+        "name": "Colorful",
+        "mode": "dark",
+        "level": "AAA",
+        "bodyLevel": "AAA"
+      }
+    ]
+  },
+  "light": {
+    "level": "fail",
+    "minRatio": 3.0,
+    "worstPair": [
+      "primary",
+      "surfaceContainer"
+    ],
+    "body": {
+      "level": "AAA",
+      "minRatio": 11.23,
+      "worstPair": [
+        "surfaceVariantText",
+        "surface"
+      ]
+    },
+    "accent": {
+      "level": "fail",
+      "minRatio": 3.0,
+      "worstPair": [
+        "primary",
+        "surfaceContainer"
+      ]
+    },
+    "nonText": {
+      "level": "AA",
+      "minRatio": 5.2,
+      "worstPair": [
+        "error",
+        "surfaceContainer"
+      ]
+    },
+    "variants": {
+      "colorful-light-default": "fail",
+      "colorful-light-green": "fail",
+      "colorful-light-red": "fail",
+      "colorful-light-yellow": "fail",
+      "m3e-light-default": "fail",
+      "m3e-light-green": "fail",
+      "m3e-light-red": "fail",
+      "m3e-light-yellow": "fail"
+    },
+    "breakdown": [
+      {
+        "name": "M3E Light",
+        "mode": "light",
+        "level": "fail",
+        "bodyLevel": "AAA"
+      },
+      {
+        "name": "Colorful Light",
+        "mode": "light",
+        "level": "fail",
+        "bodyLevel": "AAA"
+      }
+    ]
+  }
+}
